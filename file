@@ -1,0 +1,7 @@
+"<div class='table_bottom'>
+                <a href='shop_products.php'
+                class='bottom_btn'>Continue Shopping</a>
+                <h3 class='bottom_btn'>Grand total:<span>$<?php echo
+                 $grand_total ?>/-</span></h3>
+                <a href='cheakout.php' class='bottom_btn'>Proceed to cheakout</a>
+            </div>"
